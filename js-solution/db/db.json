@@ -1,0 +1,23 @@
+{
+  "cats": [
+    {"id":0,"name":"Biscuit","age":3,"color":"black"},
+    {"id":1,"name":"Midnight","age":5,"color":"white"},
+    {"id":2,"name":"Sable","age":2,"color":"gray"},
+    {"id":3,"name":"Echo","age":4,"color":"white"},
+    {"id":4,"name":"Gizmo","age":1,"color":"black"},
+    {"id":5,"name":"Onyx","age":6,"color":"gray"},
+    {"id":6,"name":"Raven","age":3,"color":"orange"},
+    {"id":7,"name":"Jinx","age":2,"color":"tan"},
+    {"id":8,"name":"Zorro","age":5,"color":"orange"},
+    {"id":9,"name":"Cobra","age":4,"color":"yellow"},
+    {"id":10,"name":"Sonic","age":3,"color":"gold"},
+    {"id":11,"name":"Vortex","age":2,"color":"brown"},
+    {"id":12,"name":"Nimble","age":1,"color":"orange"},
+    {"id":13,"name":"Comet","age":6,"color":"black"},
+    {"id":14,"name":"Neon","age":5,"color":"brown"},
+    {"id":15,"name":"Blaze","age":4,"color":"tan"},
+    {"id":16,"name":"Violet","age":3,"color":"gray"},
+    {"id":17,"name":"Siren","age":2,"color":"brown"},
+    {"id":18,"name":"Aurora","age":1,"color":"orange"}
+  ]
+}
