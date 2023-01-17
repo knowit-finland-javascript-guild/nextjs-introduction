@@ -3,9 +3,9 @@ This repository includes base setup of a Next.js project with an added local dat
 You can choose to code in JavaScript or TypeScript. 
 <br> ```/js``` folder for JavaScript template and 
 <br> ```/ts``` for TypeScript template <br>
-Respectively, to find the templates with solutions go to
-<br> ```/js-solution``` folder for JavaScript template and 
-<br> ```/ts-solution``` for TypeScript template <br>
+Respectively, to find the solutions go to
+<br> ```/js-solution``` folder for JavaScript solution and 
+<br> ```/ts-solution``` for TypeScript one <br>
 
 To get started, make sure you have Node.js installed. 
 <br>Then clone this repository, go to js/ts folder and,
@@ -90,7 +90,3 @@ Create a page ``` /cats/list-ssg ``` that use getStaticProps function to fetch c
 [tRPC + Next.js](https://trpc.io/docs/nextjs)
 * Integrate Prisma ORM with some db solution
 [Prisma](https://www.prisma.io/)
-
-
-
-```  ```
