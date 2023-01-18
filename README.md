@@ -37,7 +37,7 @@ Clone the repository, install the packages, and start the development server
 
 ##### 🥳 You should see next.js introduction page at [localhost:3000](http://localhost:3000)
 
-## Task 1 - Creating pages:
+## Task 1: Creating pages
 1.1 Create a page that is displayed at route [/favoritecat](localhost:3000/favoritecat) and shows the ```favoriteCat``` Component.
 
 1.2 Create a page that gets displayed at route [/cats/list](localhost:3000/cats/list) and shows the ```catsList``` Component.
