@@ -24,9 +24,10 @@ Helpful resources
 * /docs folder contains exported presentation slides
 * Next.js [documentation](https://nextjs.org/docs)
 
-Tasks overview in order
+Tasks overview
 * Create pages
 * Create navigation links
+* Use the Image component and assets folder
 * Get more out of Server-side rendering
 * use Static-site generation on a page
 * Bonus tasks
@@ -71,8 +72,8 @@ Create a page ``` /cats/list-ssr-props ``` that uses getServerSideProps function
 [getServerSideProps documentation](https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props)
 ##### 🥳 /cats/list-ssr-props now uses pre-rendered props. No fetch is done client-side
 
-## Task 5: Take advatange of Static site generation
-Create a page ``` /cats/list-ssg ``` that use getStaticProps function to fetch cats data and pre-render the page during build time. Import and use Component ``` catsListWithProps ``` to show cats in this page.
+## Task 5: Take advantage of Static Site Generation
+Create a page ``` /cats/list-ssg ``` that uses getStaticProps function to fetch cats data. Import and use Component ``` catsListWithProps ``` to show cats in this page.
 ##### 🥳 /cats/list-ssg now uses pre-rendered props. The page is pre-rendered at build-time and served as static html file. No rendering is done in runtime
 
 [getStaticProps documentation](https://nextjs.org/docs/basic-features/data-fetching/get-static-props)
