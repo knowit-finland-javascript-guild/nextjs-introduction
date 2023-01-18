@@ -89,4 +89,4 @@ Create a page ``` /cats/list-ssg ``` that use getStaticProps function to fetch c
 * Configure Next.js to use tRPC
 [tRPC + Next.js](https://trpc.io/docs/nextjs)
 * Integrate Prisma ORM with some db solution
-[Prisma](https://www.prisma.io/)
+[Prisma](https://www.prisma.io/nextjs)
