@@ -67,7 +67,7 @@ Use Next.js' ```<Image>``` Component: [Image documentation](https://nextjs.org/d
 
 
 ## Task 4: Take more advantage of Server Side Rendering
-Create a page ``` /cats/list-ssr-props ``` that uses getServerSideProps function to fetch cats data. Pass this data to the page as props. Import and use Component ``` catsListWithProps ``` to show cats in this page.
+Create a page ``` /cats/list-ssr-props ``` that uses getServerSideProps function to fetch cats data (you can use catService under ```/lib```). Pass this data to the page as props. Import and use Component ``` catsListWithProps ``` to show cats in this page.
 
 [getServerSideProps documentation](https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props)
 ##### 🥳 /cats/list-ssr-props now uses pre-rendered props. No fetch is done client-side
@@ -84,8 +84,8 @@ Create a page ``` /cats/list-ssg ``` that uses getStaticProps function to fetch 
 * Try out dynamic routing and create page to show an individual cat
 * Try the new app directory
 [Upgrade guide](https://beta.nextjs.org/docs/upgrade-guide#migrating-from-pages-to-app)
-* Deploy your Next.js app to Vercel
-[Vercel](https://vercel.com/)
+* Check out
+[Vercel](https://vercel.com/) deployment platform
 #### 🦺Towards a typesafe stack🎉
 * Configure Next.js to use tRPC
 [tRPC + Next.js](https://trpc.io/docs/nextjs)
